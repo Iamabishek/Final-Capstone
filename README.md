@@ -14,4 +14,4 @@
 
 8.Handling class imbalance issue with SMOTE package 
 
-9.Evaluating models based on accuracy score, auc values and classification report 
+9. Evaluating models based on accuracy score, auc values and classification report 
