@@ -1,4 +1,4 @@
-1. Statistical Evaluation of categorical features importance
+1.Statistical Evaluation of categorical features importance
 2.Finding missing values and percentage of missing row-wise and column-wise
 3.Imputing categorical variables with prediction algorithm.
 4.Finding outlier through two different methods - Zscore and IQR 
